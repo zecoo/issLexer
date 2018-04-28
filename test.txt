@@ -1,0 +1,38 @@
+int test ( int p, int o, int i, real j)
+{
+  //asdasd
+  int a;
+  a = 0;
+  i = i-1;
+  int sum;
+  sum = 10;
+  return sum;
+}
+
+int main()
+{
+
+    int [5] a;
+    a[2] =1;
+  int i;
+	i = 5*test(1,2,3,4);
+  write (i);
+  real sum;
+	sum = 21.2;
+  if (i>0){
+		sum = sum + i;
+		i = i - 1;
+	}
+  write (i);
+	i=5;
+  while (i>0)
+	{
+	    i=i-1;
+	}
+  real j;
+  write (i);
+	/* this
+	is
+	mul_note */
+
+}
